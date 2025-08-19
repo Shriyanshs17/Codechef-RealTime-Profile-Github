@@ -7,7 +7,7 @@ CodeChef Visualizer enhances your GitHub profile by dynamically extracting data 
    <table> 
       <tr><img src="https://github.com/Shriyanshs17/Codechef-RealTime-Profile-Github/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" width="500" height="500"></tr>
       </table>
-</a>
+</a> 
 
 # Installation
 1. Star this repository :pray:
