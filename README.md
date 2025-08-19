@@ -32,4 +32,4 @@ CodeChef Visualizer enhances your GitHub profile by dynamically extracting data 
 ### Inspiration
 This project is heavily inspired by the [cf-stats](https://github.com/sudiptob2/cf-stats) project.
 
-#### Made by [Gaurish Ojha](https://github.com/gaurishiiitnr) with ❤️
+
