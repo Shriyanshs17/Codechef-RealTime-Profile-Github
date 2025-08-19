@@ -103,7 +103,7 @@ public class CcVisualizerApplication {
 	public static void details(String username, Document document) throws IOException {
 		Details user = new Details();
 
-		String url = "https://www.codechef.com/users/" + username;
+		String url = "https://www.codechef.com/usersLe/" + username;
 		Document doc = Jsoup.connect(url).get();
 
 		// set username
