@@ -7,6 +7,7 @@ import org.jsoup.select.Elements;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -19,12 +20,12 @@ public class CcVisualizerApplication {
 
 	public static void main(String[] args) {
 		try {
-			String filePath = "src/main/java/com/ccvisualizer/ccvisualizer/index.html";
+
 			String outputSvgFilePath = "src/main/java/com/ccvisualizer/ccvisualizer/output.svg";
 
 			// Parse the HTML file
-			File input = new File(filePath);
-			Document document = Jsoup.parse(input, "UTF-8");
+			InputStream inputStream = CcVisualizerApplication.class.getResourceAsStream("/index.html");
+			Document document = Jsoup.parse(inputStream, "UTF-8", "");
 
 			// String username from user_name
 			 user_name userr= new user_name();
@@ -103,7 +104,7 @@ public class CcVisualizerApplication {
 	public static void details(String username, Document document) throws IOException {
 		Details user = new Details();
 
-		String url = "https://www.codechef.com/usersLe/" + username;
+		String url = "https://www.codechef.com/users/" + username;
 		Document doc = Jsoup.connect(url).get();
 
 		// set username
