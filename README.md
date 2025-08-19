@@ -1,13 +1,11 @@
 # About
 CodeChef Visualizer enhances your GitHub profile by dynamically extracting data from your CodeChef account. This GitHub Action project creates an interactive card showcasing your ratings, solved problems, and stats, seamlessly displayed on your GitHub profile.
 
-# Codechef Stat Visualizer
+# Codechef Profile Stats Visualizer
 
-<a href="https://github.com/GaurishIIITNR/cc-visualizer">
+<a href="https://github.com/Shriyanshs17/Codechef-RealTime-Profile-Github">
    <table> 
-      <tr><img src="https://github.com/GaurishIIITNR/cc-visualizer/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" height = "400px" width = "400px"/></tr>
-      <tr><img src="https://raw.githubusercontent.com/GaurishIIITNR/cc-visualizer/3daa8a3f6ffa2a62a442d9800f4fc4e569565465/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" height = "400px" width = "400px"//>
-</tr>
+      <tr><img src="https://github.com/Shriyanshs17/Codechef-RealTime-Profile-Github/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" width="500" height="500"></tr>
       </table>
 </a>
 
@@ -32,4 +30,4 @@ CodeChef Visualizer enhances your GitHub profile by dynamically extracting data 
 ### Inspiration
 This project is heavily inspired by the [cf-stats](https://github.com/sudiptob2/cf-stats) project.
 
-#### Made by [Gaurish Ojha](https://github.com/gaurishiiitnr) with ❤️
+
