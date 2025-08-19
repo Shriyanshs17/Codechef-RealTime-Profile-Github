@@ -6,8 +6,6 @@ CodeChef Visualizer enhances your GitHub profile by dynamically extracting data 
 <a href="https://github.com/Shriyanshs17/Codechef-RealTime-Profile-Github">
    <table> 
       <tr><img src="https://github.com/Shriyanshs17/Codechef-RealTime-Profile-Github/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" width="500" height="500"></tr>
-      <tr><img src="https://raw.githubusercontent.com/Shriyanshs17/3daa8a3f6ffa2a62a442d9800f4fc4e569565465/Codechef-RealTime-Profile-Github/blob/main/src/main/java/com/ccvisualizer/ccvisualizer/output.svg" height = "400px" width = "400px"//>
-</tr>
       </table>
 </a>
 
