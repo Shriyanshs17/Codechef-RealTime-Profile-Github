@@ -1,7 +1,7 @@
 # About
 CodeChef Visualizer enhances your GitHub profile by dynamically extracting data from your CodeChef account. This GitHub Action project creates an interactive card showcasing your ratings, solved problems, and stats, seamlessly displayed on your GitHub profile.
 
-# Codechef Stat Visualizer
+# Codechef Profile Stats Visualizer
 
 <a href="https://github.com/Shriyanshs17/Codechef-RealTime-Profile-Github">
    <table> 
